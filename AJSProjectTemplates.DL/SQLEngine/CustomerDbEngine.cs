@@ -30,7 +30,7 @@ namespace AJSProjectTemplates.DL.SQLEngine
         }
         public IEnumerable<CustomerDto> SaveWithIEnumerableOutput(CustomerDto dto)
         {
-            var reader = ExecuteSqlDataReader("spName", dto);
+            var reader = ExecuteSqlDataReader("spName1", dto);
             var output = new List<CustomerDto>();
             using (reader)
             {
