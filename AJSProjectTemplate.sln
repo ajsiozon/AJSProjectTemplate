@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJSProjectTemplate.UI", "AJSProjectTemplate\AJSProjectTemplate.UI.csproj", "{9FF91B97-51DF-40AD-9D7A-B05471076695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJSProjectTemplate.BL", "AJSProjectTemplate.BL\AJSProjectTemplate.BL.csproj", "{140102C5-2F6F-496B-A75D-41E192D6A911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJSProjectTemplates.DL", "AJSProjectTemplates.DL\AJSProjectTemplates.DL.csproj", "{58147E14-53CE-4758-993E-762E6EE61CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJSProjectTemplate.Common", "AJSProjectTemplate.Common\AJSProjectTemplate.Common.csproj", "{B6437B2D-CFFD-4E4D-8AC5-82F98348E6A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJSProjectTemplate.DataTransferObject", "AJSProjectTemplate.DataTransferObject\AJSProjectTemplate.DataTransferObject.csproj", "{E0C8B4BF-6DCB-4CB0-95EC-586F730B1C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF91B97-51DF-40AD-9D7A-B05471076695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF91B97-51DF-40AD-9D7A-B05471076695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF91B97-51DF-40AD-9D7A-B05471076695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF91B97-51DF-40AD-9D7A-B05471076695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140102C5-2F6F-496B-A75D-41E192D6A911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140102C5-2F6F-496B-A75D-41E192D6A911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140102C5-2F6F-496B-A75D-41E192D6A911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140102C5-2F6F-496B-A75D-41E192D6A911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58147E14-53CE-4758-993E-762E6EE61CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58147E14-53CE-4758-993E-762E6EE61CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58147E14-53CE-4758-993E-762E6EE61CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58147E14-53CE-4758-993E-762E6EE61CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6437B2D-CFFD-4E4D-8AC5-82F98348E6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6437B2D-CFFD-4E4D-8AC5-82F98348E6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6437B2D-CFFD-4E4D-8AC5-82F98348E6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6437B2D-CFFD-4E4D-8AC5-82F98348E6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C8B4BF-6DCB-4CB0-95EC-586F730B1C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C8B4BF-6DCB-4CB0-95EC-586F730B1C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C8B4BF-6DCB-4CB0-95EC-586F730B1C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C8B4BF-6DCB-4CB0-95EC-586F730B1C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
